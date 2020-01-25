@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Post&amp;Get</string>
+    <string name="enter_user_name">Enter User Name</string>
+    <string name="enter_password">Enter password</string>
+    <string name="check_user">Check User</string>
+    <string name="quote">Quote</string>
+    <string name="user">user</string>
+</resources>
